@@ -1,0 +1,6 @@
+No : Nama PT : Kode Program Studi : Nama Program Studi : Alamat : Kode Pos : Telepon : Faximile : Email
+1 : Universitas Indonesia : 23001 : Arsitektur : Kampus Baru UI Depok : : 7863512 : 021-7863514 : arsitektur@eng.ui.ac.id
+2 : Universitas Indonesia : 13021 : Epidemiologi : Kampus Baru UI Depok : : 0213172289 : 02178849032 : epi-sfkm@indo.net.id
+3 : Universitas Indonesia : 63001 : Ilmu Administrasi : Kampus UI Depok & Salemba : : 021-3913607 : 021-3921088 : elly_ui@yahoo.com
+4 : Universitas Indonesia : 62001 : Ilmu Akuntansi : Kampus UI Depok & Salemba : : 31907848 : : ppia@fe.ui.ac.id
+5 : Universitas Indonesia : 82001 : Ilmu Antropologi : Kampus UI Depok : : 021-78849022 : 021-78649022 : iwan.tjitradjaja@ui.ac.id 
